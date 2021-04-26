@@ -12,6 +12,4 @@
     
 ![](static/images/bubblechart.png)
     
-![](static/images/gaugechart.png)
-    
 ![](static/images/challenge.png)
